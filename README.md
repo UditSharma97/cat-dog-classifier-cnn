@@ -17,11 +17,19 @@
 
 ---
 
+## Demo
+
+![App Screenshot](assets/demo.png)
+
+> Built with **Streamlit** — upload any image and the model instantly classifies it as a cat or dog with a confidence score. Sample images are provided on the left panel for quick testing.
+
+---
+
 ## Quick Access
 
 | Resource | Link |
 |----------|------|
-| 📦 **Trained Model (Google Drive)** | [Download Dataset](https://drive.google.com/drive/folders/1kBpVnKEFqxCNAWGfo-yXcRR7Nwd55i3p?usp=drive_link) |
+| 📦 **Dataset (Google Drive)** | [Download Dataset](https://drive.google.com/drive/folders/1kBpVnKEFqxCNAWGfo-yXcRR7Nwd55i3p?usp=drive_link) |
 | 📓 **Google Colab Notebook** | [Open in Colab](https://colab.research.google.com/drive/1VhiSW0U2YtVFtPiLbtTttm5Pb1ib5Nrf#scrollTo=nsl2AgTJIXk-) |
 
 ---
