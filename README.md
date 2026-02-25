@@ -6,11 +6,23 @@
   <img src="https://img.shields.io/badge/Keras-Deep%20Learning-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
+  <a href="https://colab.research.google.com/drive/1VhiSW0U2YtVFtPiLbtTttm5Pb1ib5Nrf#scrollTo=nsl2AgTJIXk-">
+    <img src="https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
   A production-ready binary image classification system using a custom Convolutional Neural Network (CNN) trained to distinguish between cats and dogs. Features an iterative model improvement pipeline with data augmentation, batch normalization, dropout regularization, and early stopping — reducing validation loss from <strong>0.7 → 0.3</strong> and improving accuracy by <strong>+2%</strong>.
 </p>
+
+---
+
+## Quick Access
+
+| Resource | Link |
+|----------|------|
+| 📦 **Trained Model (Google Drive)** | [Download Dataset](https://drive.google.com/drive/folders/1kBpVnKEFqxCNAWGfo-yXcRR7Nwd55i3p?usp=drive_link) |
+| 📓 **Google Colab Notebook** | [Open in Colab](https://colab.research.google.com/drive/1VhiSW0U2YtVFtPiLbtTttm5Pb1ib5Nrf#scrollTo=nsl2AgTJIXk-) |
 
 ---
 
