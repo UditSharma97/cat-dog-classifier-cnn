@@ -284,10 +284,4 @@ Refer to `app.py` for configurable parameters such as model path and input image
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 <p align="center">Built with TensorFlow & Keras</p>
