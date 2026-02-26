@@ -1,12 +1,3 @@
-
-## Demo
-
-![App Screenshot](assets/demo.png)
-
-> Built with **Streamlit** — upload any image and the model instantly classifies it as a cat or dog with a confidence score. Sample images are provided on the left panel for quick testing.
-
----
-
 # Cat vs. Dog Image Classifier
 
 <p align="center">
@@ -23,6 +14,14 @@
 <p align="center">
   A production-ready binary image classification system using a custom Convolutional Neural Network (CNN) trained to distinguish between cats and dogs. Features an iterative model improvement pipeline with data augmentation, batch normalization, dropout regularization, and early stopping — reducing validation loss from <strong>0.7 → 0.3</strong> and improving accuracy by <strong>+2%</strong>.
 </p>
+
+---
+
+## Demo
+
+![App Screenshot](assets/demo.png)
+
+> Built with **Streamlit** — upload any image and the model instantly classifies it as a cat or dog with a confidence score. Sample images are provided on the left panel for quick testing.
 
 ---
 
